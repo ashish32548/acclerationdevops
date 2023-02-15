@@ -1,2 +1,2 @@
 # acclerationdevops
-This is repository for SKYFALL project
+This is a repository for SKYFALL project
